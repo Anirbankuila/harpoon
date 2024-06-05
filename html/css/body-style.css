@@ -1,0 +1,645 @@
+
+
+
+
+
+
+/*====================================================== Responsive =========================*/
+@media only screen and (max-width:1680px){ 
+}
+
+@media only screen and (max-width:1440px){   
+	#exampleModal .modal-content{
+		padding: 40px 50px;
+	}
+	#exampleModal h4{
+		font-size: 32px;
+		line-height: 18px;
+	}
+}
+
+@media only screen and (max-width:1370px){
+.our_platform .heading_and_image {
+    margin: 0 0 20px;
+}	
+.our_platform .key_components {
+    margin: 25px 0 0;
+}
+.our_platform .key_components h3 {
+    margin: 0 0 15px;
+}
+
+
+.our_platform .right_content > .section_heading {
+    font-size: 35px;
+    margin: 0 0 15px;
+}
+.our_offerings .all_offers .each_offer li {
+    font-size: 18px;
+}
+
+
+
+}
+
+@media only screen and (max-width:1199px) {
+.section_heading {
+    font-size: 40px;
+    line-height: 55px;
+}
+
+}
+@media only screen and (max-width:1024px) {
+	
+}
+
+@media only screen and (max-width:991px) {
+
+
+
+}
+
+
+@media only screen and (max-width:840px){
+	
+}
+
+@media only screen and (max-width:767px) {
+
+
+.crm {
+	padding-bottom: 20px;
+  }
+.our_progress{
+	padding: 40px 0;
+}
+.job-tab .nav-tabs > li {
+	font-size: 12px;
+	padding: 5px 30px !important;
+	margin-top: 13px;
+	text-align: center;
+  }
+.media_c .media_title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  margin-top: 25px;
+}
+.job-tab .nav-tabs > li a{
+	font-size: 14px;
+}
+.tab-content .each_testimonial h6{
+	margin-top: 0;
+}
+.tab-content .each_testimonial p{
+	margin-top: 0;
+}
+.form_area .each_input{
+	margin: 0 0 5px;
+}
+.tab-content .each_testimonial h4{
+	font-size: 25px;
+	line-height: 35px;
+}
+.tab-content .each_testimonial h4 span{
+	float: right;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 48px;
+	text-transform: capitalize;
+	color: #313131;
+}
+#exampleModal h4{
+	font-size: 36px;
+}
+#exampleModal .modal-content {
+	padding: 40px 36px;
+  }
+.tab-content .each_testimonial ul li{
+	font-size: 14px;
+	margin-top: 0;
+}
+.job-tab .nav-tabs > li a{
+	padding: 5px 10px;
+}
+.fresh_insights .col-md-6{
+	width: 50%;
+}
+.media_c .cta {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.media_row .col-md-4{
+	width: 50%;
+}
+.media_row .col-md-4:last-child{
+	width: 100%;
+}
+.our_progress .col-md-6{
+	width: 50%;
+}
+
+.our_offerings h2.section_heading {
+    margin: 0 0 30px;
+}
+.our_offerings .all_offers {
+    flex-direction: column;
+}
+.our_offerings .all_offers .each_offer {
+    width: 100%;
+    max-width: initial;
+}
+.our_offerings .all_offers .each_offer + .each_offer{
+	margin: 30px 0 0;
+}
+.our_offerings {
+    padding: 60px 0 65px;
+}	
+.testimonials_sec {
+    padding: 55px 0;
+}
+.testimonial_slider .item {
+    margin: 15px 15px;
+}
+.testimonial_slider .each_testimonial {
+    box-shadow: 4px 0px 6px rgb(0 0 0 / 10%);
+    padding: 15px 15px;
+}
+.testimonial_slider .each_testimonial figure {
+    margin: 0 auto 12px;
+}
+.testimonial_slider .each_testimonial > p {
+    font-size: 16px;
+    line-height: 25px;
+    margin: 0 0 15px;
+}
+.testimonial_slider .each_testimonial .bottom_info p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.testimonial_slider .each_testimonial .bottom_info h4 {
+    font-size: 18px;
+    line-height: 30px;
+    margin: 0;
+}
+.fresh_insights {
+    padding: 55px 0;
+}
+.main_footer .footer_logo {
+    margin: 0 0 10px;
+}
+.main_footer .social_links {
+    margin: 0;
+    padding: 0;
+}
+.main_footer .second_col {
+    display: block;
+    margin: 15px 0 0;
+}
+.main_footer .footer_nav ul li {
+    margin: 0 0 15px;
+}
+.know_more_sec .container > p > br{
+	display: none;
+}
+.inner_banner {
+  background-size: contain;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  min-height: calc(51vh - 100px);
+  display: flex;
+  align-items: center;
+  margin: 5px 0 0;
+}
+.advanced_sec .col-md-6{
+	width: 50%;
+}
+.conversational_sec .col-md-6{
+	width: 50%;
+}
+.riview_sec .col-md-6{
+	width: 50%;
+}
+.social_icon_media ul{
+	margin-top: 24px;
+}
+.job-tab h2.resp-accordion {
+    font-size: 20px;
+    color: #031A3D;
+    padding: 14px 20px;
+}
+.job-tab h2.resp-accordion.resp-tab-active {
+	background-color: #031A3D !important;
+    padding: 14px 20px !important;
+    border: 1px solid #031A3D !important;
+}
+.tab-content .each_testimonial ul{
+	margin: 0;
+	padding-left: 15px;
+}
+}
+
+@media only screen and (max-width:640px) {
+}
+
+@media only screen and (max-width:575px) {
+.media_banner{
+	min-height: 25vh;
+}
+.media_v_cobtent p {
+	margin-top: 10px;
+	font-size: 15px;
+	line-height: 25px;
+}
+.media_heading {
+	padding-top: 15px;
+	font-size: 25px;
+	line-height: 30px;
+  }
+.our_progress{
+	padding: 40px 0;
+}
+.job-tab .nav-tabs > li a {
+	padding: 5px 10px;
+	margin-top: 10px;
+}
+.tab-content .each_testimonial h4 {
+	font-size: 19px;
+	margin-bottom: 0 !important;
+	line-height: normal;
+}
+.tab-content .each_testimonial h6 {
+	margin-top: 0;
+	font-size: 18px;
+}
+.media_c .media_title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  margin-top: 25px;
+}
+.media_c .cta {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.media_row .col-md-4{
+	width: 100%;
+}
+.media_row .col-md-4:last-child{
+	width: 100%;
+}
+.our_progress .col-md-6{
+	width: 100%;
+}	
+.section_heading {
+    font-size: 30px;
+    line-height: 45px;
+    margin: 0 0 20px;
+}	
+.our_clients {
+    padding: 40px 0;
+}
+.our_platform {
+    padding: 40px 0;
+}
+
+.advanced_sec .col-md-6 {
+	width: 100%;
+  }
+  .conversational_sec .col-md-6 {
+	width: 100%;
+  }
+.our_platform .right_content > .section_heading {
+    font-size: 30px;
+    margin: 0 0 15px;
+}
+.riview_sec .col-md-6 {
+	width: 100%;
+  }
+.our_offerings {
+    padding: 40px 0;
+}
+.testimonials_sec {
+    padding: 40px 0;
+}
+.testimonial_slider {
+    padding-left: 0;
+    padding-right: 0;
+}
+.testimonials_sec .slick-arrow{
+	display: none !important;
+}
+.fresh_insights {
+    padding: 40px 0;
+}
+.fresh_insights h2.section_heading {
+    margin: 0 0 20px;
+}
+.fresh_insights .view_all_btn {
+    margin: 0;
+}
+.media_coverage {
+    padding: 40px 0;
+}
+.media_coverage .left_info h4 {
+    font-size: 24px;
+}
+.media_coverage .left_info p {
+    margin: 0 0 20px;
+}
+.contact_us_area {
+    padding: 40px 0;
+}
+.main_footer .footer_top {
+    padding: 50px 0 35px;
+}
+.main_footer .footer_nav ul li a {
+    font-size: 16px;
+}
+.our_platform .left_image img + img {
+    float: none;
+    margin: 20px auto 0;
+    max-width: 180px;
+}
+.testimonial_slider .each_testimonial figure {
+    width: 140px;
+    height: 140px;
+}
+.blog_lists .each_blog h4 {
+    font-size: 18px;
+    line-height: 24px;
+}
+.know_more_sec .container > p, 
+.the_vision > .container > p, 
+.what_we_archive > .container > p, 
+.meet_pillars .container > p, 
+.our_small_family .container > p {
+    font-size: 16px;
+    line-height: 25px;
+}
+.customer_ai_lists .each_list {
+    margin: 0 auto 35px;
+}
+.customer_ai_lists .each_list img {
+    margin: 0 auto 15px;
+    max-width: 60px;
+}
+.customer_ai_lists .each_list h3 {
+    font-size: 20px;
+    line-height: normal;
+    margin: 0 0 5px;
+}
+.customer_ai_lists .each_list p {
+    font-size: 15px;
+    line-height: 25px;
+}
+.start_your_journey_sec h2 {
+    font-size: 30px;
+    line-height: 45px;
+}
+.our_small_family .middle_heading_area h3 {
+    font-size: 28px;
+    line-height: 42px;
+}
+.member_lists .each_merber h4 {
+    font-size: 25px;
+    line-height: 35px;
+}
+.member_lists .each_merber small {
+    margin: 0 0 10px;
+}
+.start_your_journey_sec {
+    padding: 30px 0 35px;
+}
+.advanced_sec .left_image .second_img {
+	margin-top: -0;
+	float: none;
+	position: relative;
+	margin-right: 0;
+	width: 100%;
+	max-width: 100%;
+  }
+  .conversational_sec .left_image img{
+	margin-top: 20px;
+  }
+  .riview_sec .left_image .second_img {
+	margin-top: -0;
+	float: none;
+	position: relative;
+	margin-right: 0;
+	width: 100%;
+	max-width: 100%;
+  }
+  .riview_sec a.cta{
+	float: none;
+  }
+  .crm .left_image {
+	margin-top: 0px;
+  }
+  .fresh_insights .col-md-6 {
+	width: 100%;
+}
+.job-tab .nav-tabs > li {
+	font-size: 12px;
+	padding: 5px 15px !important;
+	margin-top: 13px;
+	text-align: center;
+  }
+.job-tab h2.resp-accordion {
+    font-size: 15px;
+    padding: 12px 14px;
+} 
+.job-tab .resp-tab-content{
+	padding: 0;
+} 
+.job-tab .testimonial_slider .item {
+    margin: 10px 5px;
+}
+#exampleModal h4{
+	line-height: normal;
+}
+#exampleModal input {
+    border-radius: 6px;
+    height: 50px;
+}
+.form_area .each_input {
+    margin: 0 0 15px;
+}
+#exampleModal .form_area {
+    margin-top: 0;
+}
+#exampleModal .modal-content {
+    padding: 30px 20px;
+}
+}
+
+
+@media only screen and (max-width:420px) {
+.media_banner{
+	min-height: 25vh;
+}
+.fresh_insights .col-md-6 {
+	width: 100%;
+}
+.our_progress{
+	padding: 40px 0;
+}
+.media_c .media_title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  margin-top: 25px;
+}
+.media_c .cta {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.section_heading {
+    font-size: 24px;
+    line-height: 35px;
+    margin: 0 0 15px;
+}
+.our_platform .right_content h3 {
+    font-size: 24px;
+    line-height: 34px;
+}
+.our_platform .right_content > .section_heading {
+    font-size: 24px;
+}	
+.our_offerings .all_offers .each_offer li {
+    font-size: 15px;
+}
+.our_offerings .all_offers .each_offer {
+    padding: 20px 20px;
+}
+.our_offerings .short_info h4 {
+    font-size: 19px;
+}
+.our_offerings .short_info p {
+    font-size: 15px;
+    line-height: normal;
+}
+.testimonial_slider .each_testimonial > p {
+    font-size: 15px;
+    line-height: 24px;
+}
+.blog_lists .each_blog h5 {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0;
+}
+.media_coverage .left_info h4 {
+    font-size: 18px;
+}
+.media_coverage .left_info p {
+	font-size: 15px;
+    margin: 0 0 20px;
+    text-align: left;
+}
+.media_coverage .left_info {
+    margin: 0 0 20px;
+}
+.contact_us_area .right_contact_form h4 {
+    font-size: 25px;
+    margin: 0 0 15px;
+}
+.form_area .each_input input, 
+.form_area .each_input textarea {
+    height: 50px;
+    font-size: 16px;
+    padding: 0 18px;
+}
+.form_area .each_input textarea {
+    height: 120px;
+    padding: 10px 18px;
+}
+.main_footer .first_col p {
+    font-size: 14px;
+}
+.main_footer .office_address .each_address {
+	display: block;
+}
+.main_footer .each_address img {
+    margin-right: 0;
+}
+.know_more_sec {
+    padding: 40px 0 20px;
+}
+.the_vision_and_archive {
+    padding: 40px 0;
+}
+.know_more_sec .container > p, 
+.the_vision > .container > p, 
+.what_we_archive > .container > p, 
+.meet_pillars .container > p, 
+.our_small_family .container > p {
+    font-size: 15px;
+    line-height: 24px;
+}
+.the_vision .all_visions .each_vision {
+    padding: 15px 15px;
+}
+.the_vision_and_archive .what_we_archive {
+    padding: 15px 0 0;
+}
+.meet_pillars {
+    padding: 30px 0 40px;
+}
+.member_lists .each_merber figure {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 10px;
+}
+.member_lists .each_merber p {
+    font-size: 15px;
+    line-height: 24px;
+}
+.our_small_family .member_lists .each_merber h4 {
+    font-size: 18px;
+}
+.our_small_family .middle_heading_area h3 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.member_lists {
+    margin: 30px 0 0;
+}
+.start_your_journey_sec h2 {
+    font-size: 25px;
+    line-height: 35px;
+}
+.our_small_family {
+    padding: 40px 0 10px;
+}
+#exampleModal h4 {
+    line-height: normal;
+    font-size: 23px;
+}
+#exampleModal label {
+    font-size: 15px;
+}
+.form_area .each_input {
+    margin: 0 0 8px;
+}
+#exampleModal input {
+    height: 42px;
+}
+}
+
+@media only screen and (max-width:380px) {
+}
